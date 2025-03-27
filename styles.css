@@ -128,3 +128,16 @@ h1 {
 .btn:hover {
   background-color: #3b6789;
 }
+/* Pet Button Styles */
+.pet-button.pet-solid {
+  /* Placeholder for solid pet icon styling */
+  opacity: 1;
+  color: red;
+}
+
+.gallery-card.highlighted {
+  /* Highlight style for selected card */
+  border: 2px solid blue;
+  box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);
+}
+
